@@ -6,6 +6,6 @@
     B. Modificar o conteúdo entre aspas no trecho 'name = "DIO Coin";' na linha 63 para alterar o **nome** do token; </br>
     C. Modificar o valor numérico no trecho 'decimals = 2;' na linha 64 para alterar a **quantidade de casas decimais do token**, o limite é 18; </br>
     D.Modificar o valor numérico no trecho '_totalSupply = 100000;' na linha 65 para alterar a **quantidade total de tokens criados**; </br>
-    B. Modificar as as linhas 66 e 67, no campo que contem  [YOUR_METAMASK_WALLET_ADDRESS] com o seu endereço de carteira Metamask. </br>
-5. Verificar antes se possui saldo para a criação do Token na Blockchain selecionada;
-6. Na aba "Solidity Compiler", pressionar a opção Compile
+    E. Modificar as as linhas 66 e 67, no campo que contem  [YOUR_METAMASK_WALLET_ADDRESS] com o seu endereço de carteira Metamask. </br>
+5. Verificar antes se possui saldo para a criação do Token na Blockchain selecionada; </br>
+6. Na aba "Solidity Compiler", pressionar a opção Compile. </br>
